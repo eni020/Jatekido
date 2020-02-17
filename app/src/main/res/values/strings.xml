@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Játékidő</string>
+    <string name="title_activity_stat">Jatekido</string>
+    <string name="napi">Napi statisztika</string>
+    <string name="heti">Heti statisztika</string>
+    <string name="osszesitett">Összesített statisztika</string>
+    <string name="keres">Első indítás: kérlek, adj meg egy jelszót!</string>
+    <string name="belepes">Belépés</string>
+    <string name="passwordempty">Kérlek adj meg egy jelszót</string>
+    <string name="settings">Beállítások</string>
+    <string name="title_activity_settings">Beálltások</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="password">Jelszó módosítása</string>
+    <string name="cancel">Mégse</string>
+    <string name="phone">Telefonszám módosítása</string>
+    <string name="limit">Napi limit</string>
+    <string name="wrongpassword">Rossz jelszó</string>
+    <string name="apps">Játékok kiválasztása</string>
+</resources>
